@@ -1,0 +1,7 @@
+/home/kale-chen/Documents/Geant4/TPPTsim/build/CMakeFiles/sim.dir
+/home/kale-chen/Documents/Geant4/TPPTsim/build/CMakeFiles/edit_cache.dir
+/home/kale-chen/Documents/Geant4/TPPTsim/build/CMakeFiles/rebuild_cache.dir
+/home/kale-chen/Documents/Geant4/TPPTsim/build/CMakeFiles/list_install_components.dir
+/home/kale-chen/Documents/Geant4/TPPTsim/build/CMakeFiles/install.dir
+/home/kale-chen/Documents/Geant4/TPPTsim/build/CMakeFiles/install/local.dir
+/home/kale-chen/Documents/Geant4/TPPTsim/build/CMakeFiles/install/strip.dir
