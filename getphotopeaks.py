@@ -2,8 +2,8 @@
 
 
 #path = '/home/kale-chen/Documents/PET/MDA_04112026/run1singles.ldat'
-path = '/home/kale-chen/Documents/PET/MiniPET/singles/old/Run118_singles.ldat'
-#path = 'data/testcoinc.bin'
+#path = '/home/kale-chen/Documents/PET/MiniPET/singles/old/Run118_singles.ldat'
+path = '/home/kale-chen/Documents/PET/Compton Reconstruction/data/testcoinc.bin'
 #path = 'data/testtarget29.bin'
 #path = 'data/joint_filter_testtarget29.bin'
 row_size = 16

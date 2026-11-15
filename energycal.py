@@ -14,6 +14,7 @@ def fitphotopeak(energies):
     return popt, fr
 
 nominalcoeffs = (8.00000, 1.04676, 1.02734, 0.31909)
+#nominalcoeffs = (8.00000, 1.04676, 1.0, 0.31909)
 def energycal(q, a, b, c, d):
     return a * b ** (q ** c) + d * q - a
 
