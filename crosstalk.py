@@ -197,7 +197,7 @@ def plotleakagematrixrow(id):
     row = leakagematrix[:,id]
     print(row)
     maxval = np.max(row)
-    fig, ax = plt.subplots(figsize=(8, 8))
+    fig, ax = plt.subplots(figsize=(6, 6))
     for i in range(64):
         y, x = indices[i]
         y_ = 15 - y
